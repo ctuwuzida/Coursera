@@ -1,2 +1,2 @@
 # Coursera
-Coursera Materials and Assignmensts
+Coursera Materials and Assignments
